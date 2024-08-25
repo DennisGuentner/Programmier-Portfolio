@@ -1,7 +1,7 @@
 // Programmierung 1 Hausaufgabe vom 16.11.2018
 // Der Code ist völlig selber erstellt worden!
 
-public class Bruch {
+public class Prog1HA3 {
 
     public static int ggt(int a, int b) {
         
