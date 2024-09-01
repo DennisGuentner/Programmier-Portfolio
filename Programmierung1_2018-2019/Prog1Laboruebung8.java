@@ -1,5 +1,4 @@
 // Programmierung 1 Laboruebung vom 17.02.2019
-// Der Code ist völlig selber erstellt worden!
 // Die Datei Palindrom.java gehört dazu.
 
 public class Main {

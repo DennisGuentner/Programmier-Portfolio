@@ -1,9 +1,9 @@
 # Programmier-Portfolio
-- Dies ist ein Portfolio, welches meinen Programmierfortschritt wärend meines Studiums darstellen soll.
-- Inhalt ist Code den ich entweder völlig selber, oder teilwese erstellt habe.
-  - Es ist in jedem Programm gekennzeichnet was von mir stammt.
-- Programmiersprachen die ich bis jetzt beherrsche sind Java, Javascript, Processing und C++
+- Dies ist ein Portfolio, das meinen Programmierfortschritt während meines Studiums darstellen soll.
+- Der Inhalt besteht aus Code, den ich entweder vollständig selbst oder teilweise erstellt habe.
+  - In jedem Programm ist gekennzeichnet, was von mir stammt.
+- Programmiersprachen die ich bisher beherrsche sind Java, JavaScript, Processing und C++
 
-- Bei weiteren Fragen können sie mich unter der e-mail Adresse: guentner.dennis@gmail.com erreichen!
+- Bei weiteren Fragen können sie mich unter der E-mail Adresse: guentner.dennis@gmail.com erreichen!
 
-Viel Spaß beim lesen! :)
+Viel Spaß beim Lesen! :)

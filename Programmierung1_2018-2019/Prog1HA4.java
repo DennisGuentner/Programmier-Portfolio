@@ -1,5 +1,4 @@
 // Programmierung 1 Hausaufgabe vom 25.11.2018
-// Der Code ist völlig selber erstellt worden!
 // Die Datei Obstkorb.java gehört dazu.
 
 public class Prog1HA4 {

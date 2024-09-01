@@ -1,5 +1,4 @@
 // Programmierung 1 Hausaufgabe vom 16.02.2019
-// Der Code ist völlig selber erstellt worden!
 // Die Dateien Dreieck2.java, Konto.java, Land.java, Quadrat.java und StdDraw.java gehören dazu.
 public class Prog1HA8 {
 

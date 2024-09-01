@@ -1,5 +1,4 @@
 // Programmierung 1 Hausaufgabe vom 09.02.2019
-// Der Code ist völlig selber erstellt worden!
 
 import java.io.File;
 import java.util.Scanner;

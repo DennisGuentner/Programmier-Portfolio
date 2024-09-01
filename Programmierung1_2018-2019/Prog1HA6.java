@@ -1,5 +1,4 @@
 // Programmierung 1 Hausaufgabe vom 08.12.2018
-// Der Code ist völlig selber erstellt worden!
 
 public class Prog1HA6 {
 	public static String[] boomBang(int start, int end) {

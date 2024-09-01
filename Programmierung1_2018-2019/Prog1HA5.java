@@ -1,5 +1,4 @@
 // Programmierung 1 Hausaufgabe vom 01.12.2018
-// Der Code ist völlig selber erstellt worden!
 // Die Dateien Dreieck.java und Rechteck.java gehören dazu.
 
 

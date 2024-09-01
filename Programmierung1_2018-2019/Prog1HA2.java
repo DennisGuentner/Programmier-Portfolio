@@ -1,5 +1,4 @@
-// Programmierung 1 Hausaufgabe vom 12.11.2018 
-// Der Code ist völlig selber erstellt worden!
+// Programmierung 1 Hausaufgabe vom 12.11.2018
 
 class Prog1HA2{
 	public static void main(String[] args){
