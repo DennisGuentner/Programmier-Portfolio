@@ -1,6 +1,6 @@
 /* Algorithmen und Datenstrukturen Uebung 1 vom 08.11.2020
-   - Zier war es einmal die Flaeche und Umfang eines Kreises zu berechnen
-     und dann mit meiner Matrikelnummer meinen Namen auszugeben!
+  - In Aufgabe 1 wird die Flaeche eines Kreises und Volumen einer Kugel zu berechnet.
+  - In Aufgabe 2 wird durch meiner Matrikelnummer die einzelnen char meines Namens berechnet und ausgegeben.
 */ 
 
 #include <stdio.h>
@@ -11,7 +11,7 @@ float berechneA(float r, float pi){
 return r * r * pi;
 }
 
-//Berechnung der Oberflaeche:
+//Berechnung des Volumens:
 float berechneV(float r, float pi) {
 return r * r * r * pi * 4 / 3;
 }

@@ -1,5 +1,5 @@
 /* Algorithmen und Datenstrukturen Uebung 2 vom 22.11.2020
-   - In Aufgabe 1 wird die Rasterung eines Kreises ausgeführt und im Terminal ausgegeben.
+   - In Aufgabe 1 wird die Rasterung eines Kreises ausgefuehrt und im Terminal ausgegeben.
    - In Aufgabe 2 wird das Display als abstrakter Datentyp und die Berechnung des Kreises als Makro 'Cricle' definiert
 */ 
 

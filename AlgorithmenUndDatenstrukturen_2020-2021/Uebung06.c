@@ -1,5 +1,5 @@
 /* Algorithmen und Datenstrukturen Uebung 4 vom 07.02.2021
-   - DIe Aufgabe implementiert einen Binaerbaum.
+   - Die Aufgabe implementiert einen Binaerbaum mit Einfuege-, Such-, Ausgabefunktion fuer das Terminal. Ausserdem kann eine datei eingelesen werden.
 */ 
 
 #include <stdio.h>

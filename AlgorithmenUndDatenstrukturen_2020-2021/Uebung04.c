@@ -1,7 +1,7 @@
 /* Algorithmen und Datenstrukturen Uebung 4 vom 20.12.2020
    - Aufgabe 1 misst die Zeit die der Computer beim ausfuehren der linearen und binaeren Suche benoetigt.
-   - Aufgabe 2 misst die durchschnittliche Zeit beider Suchalgorithmen.
-   - Aufgabe 3 misst die Zeit einer im Aufgabenblatt beschriebenen Sortieralgorithmus und Quiksort, um diese zu vergleichen.
+   - Aufgabe 2 misst die durchschnittliche Zeit der Suchalgorithmen aus Aufgabe 1.
+   - Aufgabe 3 misst die Zeit von einem im Aufgabenblatt beschriebenen Sortieralgorithmus und Quiksort und vergleicht die Zeiten.
 */ 
 
 #include <stdio.h>

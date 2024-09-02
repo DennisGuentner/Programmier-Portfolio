@@ -1,6 +1,6 @@
 /* Algorithmen und Datenstrukturen Uebung 3 vom 10.12.2020
    - Aufgabe 1 implementiert Bubblesort und Quiksort.
-   - AUfgabe 2 implementiert Linesearch und Binarysearch.
+   - Aufgabe 2 implementiert Linesearch und Binarysearch.
 */ 
 
 #include <stdio.h>
