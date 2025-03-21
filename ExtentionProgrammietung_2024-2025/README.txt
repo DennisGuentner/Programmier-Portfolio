@@ -1,4 +1,5 @@
 Dieses Bachelorprojekt ist in digitales Journal in der man Erlebnisse eintragen kann.
+- Die Extention ist die die zip File!
 - Es wurde von 4 Studenten realisiert.
 - Wenn man ein neuen EIntrag erstellt lassen sich zudem ein Bild hinzufügen, eine Emotion auswählen und mehrere Hash-Tags hinzufügen.
 - Auf der Hauptseite werden alle EInträge von jetzigen Datum abwärts angezeigt.
