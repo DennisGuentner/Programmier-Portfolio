@@ -11,16 +11,16 @@ Dieses Bachelorprojekt ist in digitales Journal in der man Erlebnisse eintragen 
 Folgendes wurde von mir geschrieben:
 - In der journaling/Classes/Controller/JournalingController.php
   - Zeile 47-60
-  - Zeile 63-85 (Wurde von mir überarbeitet um in JournalingsArray den Mittelwert der int 'emotion' pro 'date' zu ermitteln, damit diese für den Kalender weiterverwendet werden können)
-  - Zeile 97-167 (Mit der gleichen bearbeitung für den Kalender)
-  - Zeile 189-197
-  - Zeile 209-239
+  - Zeile 66-86 (Wurde von mir überarbeitet um in JournalingsArray den Mittelwert der int 'emotion' pro 'date' zu ermitteln, damit diese für den Kalender weiterverwendet werden können)
+  - Zeile 102-170 (Mit der gleichen bearbeitung für den Kalender)
+  - Zeile 200-197
+  - Zeile 214-243
   
 - Unter journaling/Resources/Private/Templates/List (bzw. ListWithTags. Beide sind identisch):
-  - Zeile 20-43 (Tagauswahl)
+  - Zeile 20-43 (Tag Auswahl)
   - Zeile 53 
   - Zeile 57-59 (Anzeige des Datums falls dieser später ist als der vorige) 
   
 - Unter journaling/Resources/Private/Templates/NewIMG:
-  - Zeile 28
+  - Zeile 28-31
   
